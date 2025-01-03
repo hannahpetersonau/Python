@@ -1,4 +1,4 @@
-﻿# Basic Data Structures Benchmark
+﻿# Basic Data Structures Benchmark - About the Project
 
 An exerpt of a project I worked on in my most recent data structures class, performed in python. The largest portion of structure design was done through the "tests" file, with the "results.md" file going over my findings with each test done on the efficiency of the stacks and queues.
 
